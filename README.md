@@ -12,6 +12,6 @@ Appearance > Colors <br/>
 and import the color-scheme from the `color-scheme` folder.
 
 
-# Recommendations
+# Recommendations:
 
-* Check `Hide text when toolbar shows text alongside icons` for all toolbuttons.
+* Check `Hide text when toolbar shows text alongside icons` for all toolbuttons or just right mouse click on the toolbutton and click on the toolbutton's name to hide the text.
