@@ -1,0 +1,41 @@
+[Window settings for firefox]
+Description=Window settings for firefox
+clientmachine=localhost
+placementrule=2
+position=48,42
+positionrule=2
+size=1498,786
+sizerule=2
+title=DuckDuckGo — Privacy, simplified. — Mozilla Firefox
+types=1
+windowrole=browser
+windowrolematch=1
+wmclass=navigator firefox
+wmclasscomplete=true
+wmclassmatch=1
+
+[Window settings for firefoxdeveloperedition]
+Description=Window settings for firefoxdeveloperedition
+clientmachine=localhost
+placementrule=2
+position=48,42
+positionrule=2
+size=1498,786
+sizerule=2
+title=Google — Firefox Developer Edition
+types=1
+windowrole=browser
+windowrolematch=1
+wmclass=navigator firefoxdeveloperedition
+wmclasscomplete=true
+wmclassmatch=1
+
+[Window settings for opensnitch-ui]
+Description=Window settings for opensnitch-ui
+clientmachine=localhost
+closeablerule=2
+title=OpenSnitch Network Statistics 1.5.8
+titlematch=1
+types=1
+wmclass=opensnitch-ui
+wmclassmatch=1
