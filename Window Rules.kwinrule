@@ -1,0 +1,75 @@
+[Window settings for firedragon]
+Description=Window settings for firedragon
+clientmachine=localhost
+position=48,42
+positionrule=3
+size=1498,786
+sizerule=3
+title=Dotfiles/Window Rules.kwinrule at main · ramon501/Dotfiles · GitHub — FireDragon
+types=1
+windowrole=browser
+windowrolematch=1
+wmclass=navigator firedragon
+wmclasscomplete=true
+wmclassmatch=1
+
+[Window settings for firefox]
+Description=Window settings for firefox
+clientmachine=localhost
+placementrule=2
+position=48,42
+positionrule=2
+size=1498,786
+sizerule=2
+title=DuckDuckGo — Privacy, simplified. — Mozilla Firefox
+types=1
+windowrole=browser
+windowrolematch=1
+wmclass=navigator firefox
+wmclasscomplete=true
+wmclassmatch=1
+
+[Window settings for firefoxdeveloperedition]
+Description=Window settings for firefoxdeveloperedition
+clientmachine=localhost
+placementrule=2
+position=48,42
+positionrule=2
+size=1498,786
+sizerule=2
+title=Google — Firefox Developer Edition
+types=1
+windowrole=browser
+windowrolematch=1
+wmclass=navigator firefoxdeveloperedition
+wmclasscomplete=true
+wmclassmatch=1
+
+[Window settings for nightpdf]
+Description=Window settings for nightpdf
+clientmachine=localhost
+maxsize=1533,750
+minsize=1533,750
+position=48,42
+positionrule=3
+size=1498,786
+sizerule=3
+title=NightPDF
+types=1
+windowrole=browser-window
+windowrolematch=1
+wmclass=nightpdf
+wmclassmatch=1
+
+[Window settings for opensnitch-ui]
+Description=Window settings for opensnitch-ui
+clientmachine=localhost
+closeablerule=2
+position=48,42
+size=1498,786
+title=OpenSnitch Network Statistics 1.6.0
+titlematch=1
+types=1
+windowrole=3pane
+wmclass=opensnitch-ui
+wmclassmatch=1
