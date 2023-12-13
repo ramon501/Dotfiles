@@ -12,8 +12,9 @@ title=Google — Firefox Developer Edition
 types=1
 windowrole=browser
 windowrolematch=1
-wmclass=firefoxdeveloperedition
+wmclass=navigator firefoxdeveloperedition
 wmclasscomplete=true
+wmclassmatch=1
 
 [Window settings for librewolf]
 Description=Window settings for librewolf
