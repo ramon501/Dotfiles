@@ -1,0 +1,81 @@
+[Window settings for firefoxdeveloperedition]
+Description=Window settings for firefoxdeveloperedition
+clientmachine=localhost
+noborder=true
+noborderrule=2
+placementrule=2
+position=48,42
+positionrule=2
+size=1498,763
+sizerule=2
+title=Google — Firefox Developer Edition
+types=1
+windowrole=browser
+windowrolematch=1
+wmclass=firefoxdeveloperedition
+wmclasscomplete=true
+
+[Window settings for librewolf]
+Description=Window settings for librewolf
+clientmachine=localhost
+noborder=true
+noborderrule=2
+position=48,42
+positionrule=2
+size=1498,763
+sizerule=2
+title=LibreWolf
+types=1
+windowrole=browser
+windowrolematch=1
+wmclass=navigator librewolf
+wmclasscomplete=true
+wmclassmatch=1
+
+[Window settings for nightpdf]
+Description=Window settings for nightpdf
+clientmachine=localhost
+noborder=true
+noborderrule=2
+position=48,42
+positionrule=3
+size=1498,763
+sizerule=3
+title=NightPDF
+types=1
+windowrole=browser-window
+windowrolematch=1
+wmclass=nightpdf
+wmclassmatch=1
+
+[Window settings for obs]
+Description=Window settings for obs
+clientmachine=localhost
+noborder=true
+noborderrule=2
+position=10,30
+positionrule=3
+size=1580,782
+sizerule=3
+strictgeometry=true
+strictgeometryrule=2
+title=OBS
+types=1
+windowrole=browser
+wmclass=obs
+wmclassmatch=1
+
+[Window settings for opensnitch-ui]
+Description=Window settings for opensnitch-ui
+clientmachine=localhost
+closeablerule=2
+minimizerule=2
+noborder=true
+position=48,42
+size=1498,763
+title=OpenSnitch Network Statistics 1.6.1
+titlematch=1
+types=1
+windowrole=browser
+wmclass=opensnitch-ui
+wmclassmatch=1
