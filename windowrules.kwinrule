@@ -1,0 +1,79 @@
+[Application settings for LibreWolf]
+Description=Application settings for LibreWolf
+clientmachine=localhost
+noborder=true
+noborderrule=2
+position=48,42
+positionrule=2
+size=1498,763
+sizerule=2
+strictgeometry=true
+title=OBS
+windowrole=browser
+wmclass=Navigator LibreWolf
+wmclasscomplete=true
+wmclassmatch=1
+
+[Application settings for firefoxdeveloperedition]
+Description=Application settings for firefoxdeveloperedition
+clientmachine=localhost
+noborder=true
+noborderrule=2
+position=48,42
+positionrule=2
+size=1498,763
+sizerule=2
+strictgeometry=true
+title=OBS
+windowrole=browser
+wmclass=Navigator firefoxdeveloperedition
+wmclasscomplete=true
+wmclassmatch=1
+
+[Application settings for skype]
+Description=Application settings for skype
+clientmachine=localhost
+noborder=true
+position=52,47
+positionrule=2
+size=1487,751
+sizerule=2
+strictgeometry=true
+strictgeometryrule=2
+title=OBS
+windowrole=browser
+wmclass=skype
+wmclassmatch=1
+
+[Window settings for nightpdf]
+Description=Window settings for nightpdf
+clientmachine=localhost
+noborder=true
+noborderrule=2
+position=48,42
+positionrule=3
+size=1498,763
+sizerule=3
+title=NightPDF
+types=1
+windowrole=browser-window
+windowrolematch=1
+wmclass=nightpdf
+wmclassmatch=1
+
+[Window settings for obs]
+Description=Window settings for obs
+clientmachine=localhost
+noborder=true
+noborderrule=2
+position=10,30
+positionrule=3
+size=1580,782
+sizerule=3
+strictgeometry=true
+strictgeometryrule=2
+title=OBS
+types=1
+windowrole=browser
+wmclass=obs
+wmclassmatch=1
